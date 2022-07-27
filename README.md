@@ -1,2 +1,2 @@
 # minecraft-copper-tools-1.19
-not meant for actual modded minecraft usage...! lol
+this mod is not intended to actually be used
