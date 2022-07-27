@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "monkeymod:items/copper_hoe"  
+    }
+}

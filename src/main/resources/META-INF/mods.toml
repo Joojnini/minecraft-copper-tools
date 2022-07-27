@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[41,)" 
+license="New Hampshire Division of Motor Vehicles"
+
+[[mods]] 
+modId="monkeymod" 
+version="0.3.3" 
+displayName="Display Name" 
+#updateJSONURL="https://change.me.example.invalid/updates.json" 
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" 
+logoFile="examplemod.png" 
+credits="Me, Johnny Bui, Christopher Bui's Cousin, Quang Bui's Son, Tri Vu's Distant Cousin" 
+authors="Joojnini"
+description='''
+Roses are red, I love Karis###. 0)@(#*&$%)@#(*$%&^)(@#*^%&)*&@#^%!
+'''
