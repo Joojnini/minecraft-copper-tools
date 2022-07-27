@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Bopper Age
+Specification-Vendor: Joojnini
+Specification-Version: 1
+Implementation-Title: Bropper Age
+Implementation-Version: 0.0.1
+Implementation-Vendor: Joojnini
+Implementation-Timestamp: 2022-07-25T17:08:34-0400
+
