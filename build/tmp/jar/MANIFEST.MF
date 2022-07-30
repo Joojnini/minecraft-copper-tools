@@ -3,7 +3,7 @@ Specification-Title: Bopper Age
 Specification-Vendor: Joojnini
 Specification-Version: 1
 Implementation-Title: Copper Age
-Implementation-Version: 0.9.5
+Implementation-Version: 0.9.7
 Implementation-Vendor: Joojnini
-Implementation-Timestamp: 2022-07-30T00:27:19-0400
+Implementation-Timestamp: 2022-07-30T19:39:12-0400
 

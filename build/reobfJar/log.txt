@@ -1,5 +1,5 @@
 Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-17.0.4.8-hotspot\bin\java.exe
-Arguments: '--in-jar, C:\Users\Johnni\Desktop\Mod 2.0\Copper Age\build\libs\monkeymod-0.9.5.jar, --out-jar, C:\Users\Johnni\Desktop\Mod 2.0\Copper Age\build\reobfJar\output.jar, --srg-in, C:\Users\Johnni\Desktop\Mod 2.0\Copper Age\build\createMcpToSrg\output.tsrg, --live'
+Arguments: '--in-jar, C:\Users\Johnni\Desktop\Mod 2.0\Copper Age\build\libs\monkeymod-0.9.7.jar, --out-jar, C:\Users\Johnni\Desktop\Mod 2.0\Copper Age\build\reobfJar\output.jar, --srg-in, C:\Users\Johnni\Desktop\Mod 2.0\Copper Age\build\createMcpToSrg\output.tsrg, --live'
 Classpath:
  - C:\Users\Johnni\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.11.0\SpecialSource-1.11.0-shaded.jar
  - C:\Users\Johnni\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19-41.0.110_mapped_official_1.19\forge-1.19-41.0.110_mapped_official_1.19-recomp.jar
@@ -120,13 +120,13 @@ Loading mappings... 50%
 0 packages, 6735 classes, 30244 fields, 56896 methods
 Remapping final jar
 Remapping jar...  2%
-Remapping jar... 10%
+Remapping jar... 11%
 Remapping jar... 21%
-Remapping jar... 31%
-Remapping jar... 42%
+Remapping jar... 30%
+Remapping jar... 41%
 Remapping jar... 50%
-Remapping jar... 60%
+Remapping jar... 61%
 Remapping jar... 71%
-Remapping jar... 81%
-Remapping jar... 92%
+Remapping jar... 80%
+Remapping jar... 91%
 Remapping jar... 100%
