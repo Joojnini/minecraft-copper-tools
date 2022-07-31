@@ -36,7 +36,7 @@ public class ItemTier {
             "copper",
             14,
             new int[] {(int) 2, 4, 5, 2},
-            20,
+            350,
             SoundEvents.ARMOR_EQUIP_IRON,
             0.0f,
             0.0f,

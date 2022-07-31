@@ -4,7 +4,7 @@ license="New Hampshire Division of Motor Vehicles"
 
 [[mods]] 
 modId="monkeymod" 
-version="0.9.7" 
+version="0.9.8" 
 displayName="Copper Tools" 
 #updateJSONURL="https://change.me.example.invalid/updates.json" 
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" 
