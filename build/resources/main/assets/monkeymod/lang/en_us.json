@@ -6,6 +6,9 @@
     "item.monkeymod.copper_hoe": "Copper Hoe",
     "item.monkeymod.copper_sword": "Copper Sword",
     "item.monkeymod.ecopper_apple": "Enchanted Copper Apple",
-    "item.monkeymod.copper_helmet": "Copper Helmet"
+    "item.monkeymod.copper_helmet": "Copper Helmet",
+    "item.monkeymod.copper_boots": "Copper Boots",
+    "item.monkeymod.copper_chestplate": "Copper Chestplate",
+    "item.monkeymod.copper_leggings": "Copper Leggings"
     
 }
