@@ -10,4 +10,8 @@ this mod is not intended to actually be used
 
 ~~-add copper armor into the game~~
 
+~~-add stone armor into the game~~
+
+stone apple? 
+
 more to come ? ? ? 
