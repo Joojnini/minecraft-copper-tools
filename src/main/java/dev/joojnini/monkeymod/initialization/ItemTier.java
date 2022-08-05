@@ -25,7 +25,7 @@ public class ItemTier {
     211, 
     5.0f, 
     0f, 
-    22, 
+    20, 
     BlockTags.NEEDS_STONE_TOOL, 
     () -> Ingredient.of(net.minecraft.world.item.Items.COPPER_INGOT));
     //////////////////////////////////////////////////////////////////
@@ -36,7 +36,7 @@ public class ItemTier {
             "copper",
             14,
             new int[] {(int) 2, 4, 5, 2},
-            40,
+            21,
             SoundEvents.ARMOR_EQUIP_IRON,
             0.0f,
             0.0f,
@@ -44,4 +44,6 @@ public class ItemTier {
 
         );
     }
+
+    
 }
