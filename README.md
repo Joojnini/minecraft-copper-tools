@@ -9,3 +9,5 @@ this mod is not intended to actually be used
 ~~-add copper apples into the game (normal + enchanted)~~
 
 ~~-add copper armor into the game~~
+
+more to come ? ? ? 
